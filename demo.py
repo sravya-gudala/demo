@@ -10,5 +10,5 @@ with col1:
   
 with col2:
   st.subheader("Ragdoll Cat")
-  st.image("./ragdoll.jpg", caption="Ragdoll Cat", width=300, use_column_width=True)
+  st.image("./ragdoll.jpeg", caption="Ragdoll Cat", width=300, use_column_width=True)
   st.write("Ragdoll Cats are Proud")
